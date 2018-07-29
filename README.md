@@ -2,7 +2,7 @@
 
 This is a simple program
 
-and then I added a line
+bound to cause trouble
 
 yet another line here , just to make sure git works
 
